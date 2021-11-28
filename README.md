@@ -1,6 +1,6 @@
 ## Inspiration
 
-We shared university first year game coursework.[to gauge previous experience and start brainstorming?]
+We shared university first year game coursework.[to gauge previous experience and start brainstorming]
 Adapted a particular nuclear fallout theme game.
 Seoul 2033
 https://play.google.com/store/apps/details?id=com.banjigamaes.seoul2033_global&hl=en_CA&gl=US
